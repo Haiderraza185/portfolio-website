@@ -16,14 +16,13 @@ const Contact = () => {
 
         <li className={styles.link}>
           <img src={"contact/linkedinIcon.png"} alt="LinkedIn icon" />
-          <a href="razakhokher269@gmail.com">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/haider-raza-49a94a370/" target='_main'>LinkedIn</a>
         </li>
 
         <li className={styles.link}>
           <img src={"contact/githubIcon.png"} alt="Github icon" />
           <a href="https://github.com/haider559875" target='_main'>Github</a>
         </li>
-
     </ul>
   </footer>
   )

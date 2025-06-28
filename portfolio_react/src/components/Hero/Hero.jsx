@@ -4,9 +4,9 @@ const Hero = () =>{
         <div className={styles.content}>
             <h1 className={styles.title}>Hey I'm Haider</h1>
             <p className={styles.description}>
-                I'm a full-stack developer with 5 years of experience using React and NodeJS.Reach out if you'd like to learn more!
+                I'm a frontend developer with 1 years of experience using React and NodeJS.Reach out if you'd like to learn more!
             </p>
-            <a href="razakhokher269@gmail.com" className={styles.contactBtn}>
+            <a href="#contact" className={styles.contactBtn}>
                 Contact Me
             </a>
         </div>

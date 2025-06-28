@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Netflix Clone",
+    "imageSrc": "projects/Netflix-project.png",
+    "description":"Netflix Clone is a responsive web app that shows Top series list. ",
+    "skills": ["React", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/haider559875/Netflix-clone"
   },
   {
     "title": "Project B",

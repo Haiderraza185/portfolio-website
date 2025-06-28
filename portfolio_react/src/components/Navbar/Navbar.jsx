@@ -10,7 +10,7 @@ const Navbar = () => {
              className={Styles.menuBtn}
              src={menuOpen
                 ?("nav/closeIcon.png")
-                :("nav/menuicon.ico") }
+                :("nav/menuicon.ico")}
                 alt="menu-button"
                 onClick={() => setMenuOpen(!menuOpen)}
             />
@@ -27,7 +27,7 @@ const Navbar = () => {
                     <a href="#projects">Projects</a>
                 </li>
                 <li>
-                    <a href="#content">Content</a>
+                    <a href="#contact">Contact</a>
                 </li>
             </ul>
         </div>

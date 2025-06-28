@@ -24,7 +24,15 @@
     align-items: center;
 }
 .aboutImage{
-    width: 35%;
+    width: 40%;
+    margin-right: 10px;
+    border-radius: 10px;
+    z-index: 1;
+    animation-name: floating;
+    animation-duration:3s ;
+    /* For how many times its move */
+    animation-iteration-count: infinite;  
+    animation-timing-function: ease-in-out;
 }
 
 .aboutItems{
@@ -58,6 +66,18 @@
 }
 .aboutItem p{
     font-size: 25px;
+}
+
+@keyframes floating{
+    0%{
+        transform: translate(0,0px);
+    }
+    50%{
+        transform: translate(0,10px);
+    }
+    100%{
+        transform: translate(0,-0px);
+    }
 }
 
 @media screen and (max-width:830px) {
