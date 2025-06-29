@@ -4,7 +4,7 @@
     "imageSrc": "projects/Netflix-project.png",
     "description":"Netflix Clone is a responsive web app that shows Top series list. ",
     "skills": ["React", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://glowing-dieffenbachia-5164a1.netlify.app/",
     "source": "https://github.com/haider559875/Netflix-Clone"
   },
   {
