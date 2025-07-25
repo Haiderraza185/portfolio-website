@@ -16,14 +16,6 @@ const About = () =>{
             </li>
 
             <li className={styles.aboutItem}>
-                <img src={"about/serverIcon.png"} alt="Server icon" />
-                <div className={styles.aboutItemText}>
-                    <h3>Backend Developer</h3>
-                    <p>I have experiences developing fast and optimised and APIs</p>
-                </div>
-            </li>
-
-            <li className={styles.aboutItem}>
                 <img src={"about/uiIcon.png"} alt="Server icon" />
                 <div className={styles.aboutItemText}>
                     <h3>UI Designer</h3>

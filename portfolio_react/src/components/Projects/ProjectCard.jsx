@@ -8,7 +8,6 @@ const ProjectCard = ({project : {title, imageSrc ,description, skills,demo,sourc
         <h3 className={style.title}>{title}</h3>
         <p className={style.description}>{description}</p>
         <ul className={style.skills}>
-          {/* Map is use for looping */}
             {skills.map((skill,id) =>{ 
              return (
              <li key={id} className={style.skill}>{skill} </li>

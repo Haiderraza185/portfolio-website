@@ -35,12 +35,12 @@
     cursor: pointer;
 }
 .skill:hover{
-    transform: scale(1.5) ;
+    transform: scale(1.5) rotateY(360deg)  ;
     translate: (0px);
-    transition: 0.3s;
+    transition: 0.2s;
 }
 .skillImageContainer{
-    background-color: var(--color-secondary);
+    background-color: var(--color-secondary) ;
     border-radius: 100%;
     display: flex;
     justify-content: center;

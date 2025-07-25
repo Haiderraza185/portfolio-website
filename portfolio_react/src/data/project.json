@@ -8,19 +8,11 @@
     "source": "https://github.com/haider559875/Netflix-Clone"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Youtube Clone",
+    "imageSrc": "projects/Youtube.png",
+    "description": " React web app with video playback, categories, and responsive design.",
+    "skills": ["React","Node"],
+    "demo": "https://youtube-clone-haider-raza.netlify.app/",
+    "source": "https://github.com/haider559875/Youtube-Clone"
   }
 ]
