@@ -37,7 +37,7 @@
 .skill:hover{
     transform: scale(1.5) rotateY(360deg)  ;
     translate: (0px);
-    transition: 0.2s;
+    transition: 0.3s;
 }
 .skillImageContainer{
     background-color: var(--color-secondary) ;
