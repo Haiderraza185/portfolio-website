@@ -1,7 +1,7 @@
 [
   {
     "title": "Netflix Clone",
-    "imageSrc": "projects/Netflix-project.png",
+    "imageSrc": "projects/netflix.gif",
     "description":"Netflix Clone is a responsive web app that shows Top series list. ",
     "skills": ["React", "Node"],
     "demo": "https://glowing-dieffenbachia-5164a1.netlify.app/",
@@ -9,10 +9,26 @@
   },
   {
     "title": "Youtube Clone",
-    "imageSrc": "projects/Youtube.png",
+    "imageSrc": "projects/Youtube.webp",
     "description": " React web app with video playback, categories, and responsive design.",
     "skills": ["React","Node"],
     "demo": "https://youtube-clone-haider-raza.netlify.app/",
     "source": "https://github.com/haider559875/Youtube-Clone"
+  },
+  {
+    "title" : "Amazom Clone",
+    "imageSrc" : "projects/ama.gif",
+    "description" : "A static clone of Amazon’s homepage built with HTML and CSS for UI/UX practice.",
+    "skills" : ["HTML","CSS"],
+    "demo" : "https://amazon-clone-7f00bc.netlify.app/",
+    "source" : "https://github.com/Haiderraza185/Amazon-Clone"
+  },
+  {
+    "title" : "Account Hub",
+    "imageSrc" : "projects/Accounts.png",
+    "description" : "A responsive personal link hub to all my online profiles.",
+    "skills" : ["React","Node"],
+    "demo" : "https://688e53e03a1848c6674b0739--haiderrazaaccountsweb.netlify.app/",
+    "source" : "https://github.com/Haiderraza185/accounts-links"
   }
 ]
