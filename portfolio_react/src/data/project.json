@@ -4,7 +4,7 @@
     "imageSrc": "projects/netflix.gif",
     "description":"Netflix Clone is a responsive web app that shows Top series list. ",
     "skills": ["React", "Node"],
-    "demo": "https://glowing-dieffenbachia-5164a1.netlify.app/",
+    "demo": "https://flixcards-0825haider.netlify.app/",
     "source": "https://github.com/haider559875/Netflix-Clone"
   },
   {
@@ -28,7 +28,7 @@
     "imageSrc" : "projects/Accounts.png",
     "description" : "A responsive personal link hub to all my online profiles.",
     "skills" : ["React","Node"],
-    "demo" : "https://688e53e03a1848c6674b0739--haiderrazaaccountsweb.netlify.app/",
+    "demo" : "https://haider-raza-accounts-web.netlify.app/",
     "source" : "https://github.com/Haiderraza185/accounts-links"
   }
 ]
