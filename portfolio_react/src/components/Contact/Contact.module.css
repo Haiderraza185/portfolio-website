@@ -56,4 +56,10 @@
     .links{
         align-items: center;
     }
+    .link {
+        gap: 1px;
+    }
+    .link a{
+        font-size: 20px;
+    }
 }
