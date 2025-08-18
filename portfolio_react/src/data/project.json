@@ -17,7 +17,7 @@
   },
   {
     "title" : "Amazom Clone",
-    "imageSrc" : "projects/ama.gif",
+    "imageSrc" : "projects/amazon.gif",
     "description" : "A static clone of Amazon’s homepage built with HTML and CSS for UI/UX practice.",
     "skills" : ["HTML","CSS"],
     "demo" : "https://amazon-clone-7f00bc.netlify.app/",
@@ -30,5 +30,13 @@
     "skills" : ["React","Node"],
     "demo" : "https://haider-raza-accounts-web.netlify.app/",
     "source" : "https://github.com/Haiderraza185/accounts-links"
+  },
+  {
+    "title" : "Movie App",
+    "imageSrc" : "projects/film.png",
+    "description" : "A movie app to explore, search, and discover trending and top-rated films.",
+    "skills" : ["React","Node","Redux"],
+    "demo" : "https://movieapp-haider.netlify.app/",
+    "source" : "https://github.com/Haiderraza185/Movie-app"
   }
 ]
